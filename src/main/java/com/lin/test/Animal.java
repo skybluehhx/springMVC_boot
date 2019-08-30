@@ -4,7 +4,7 @@ package com.lin.test;
  * @author jianglinzou
  * @date 2019/8/29 下午4:50
  */
-public class Animal {
+public class Animal extends ClassLoader {
 
 
     public void test() {
